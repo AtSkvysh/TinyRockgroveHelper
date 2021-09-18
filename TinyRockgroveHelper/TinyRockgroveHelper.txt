@@ -1,0 +1,7 @@
+## Title: TinyRockgroveHelper
+## Version: 1.0
+## APIVersion: 101031
+## SavedVariables: Settings
+
+TinyRockgroveHelper.lua
+TinyRockgroveHelperPanel.xml
